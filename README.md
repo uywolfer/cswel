@@ -1,2 +1,3 @@
 # cswel
-nb
+
+print("卧槽")
